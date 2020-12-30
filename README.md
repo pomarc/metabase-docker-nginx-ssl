@@ -74,8 +74,10 @@ test that the configuration is OK:
     sudo nginx -t  
     
   restart nginx
+  
     sudo service nginx restart
  or
+ 
     sudo systemctl reload nginx
     
 
