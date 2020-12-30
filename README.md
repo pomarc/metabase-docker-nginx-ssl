@@ -1,7 +1,9 @@
 # metabase-docker-nginx-ssl
 steps to secure metabase on docker behind ssl nginx with let'sencrypt
 
-## 1 setting up metabase on Docker is super easy: https://www.metabase.com/docs/latest/operations-guide/running-metabase-on-docker.html
+## 1 set up metabase on docker
+
+https://www.metabase.com/docs/latest/operations-guide/running-metabase-on-docker.html
 
 
 ## 2 Install nginx, certbot, get the certificate and set them up
