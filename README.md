@@ -88,3 +88,7 @@ test your certificate renewal procedure
 if this shows no error, certbot will renew the certificates automagically.
 
 
+references:
+1) https://www.cloudbooklet.com/install-metabase-on-ubuntu-18-04-with-nginx-and-ssl-google-cloud/
+2) https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04
+3) https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-load-balancing-with-ssl-termination#:~:text=About%20SSL%20Termination,backend%20servers%20is%20in%20HTTP.
